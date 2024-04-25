@@ -33,10 +33,6 @@ public class Main {
                 System.out.println("The correct number is " + numberToGuess);
             }
 
-            // comit
-            //to new line
-            // for streak
-
 
         }
     }
