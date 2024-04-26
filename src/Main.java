@@ -32,8 +32,6 @@ public class Main {
                 System.out.println("Congratulations! You've guessed the number in " + numberOfTries + " tries!");
                 System.out.println("The correct number is " + numberToGuess);
             }
-
-// streak
         }
     }
     }
